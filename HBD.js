@@ -4,5 +4,6 @@ window.onload = function () {
       "Hope your day is better than a perfectly running 'Hello World!'\n" +
       "Thanks for all the guidance and inspiration!"
     );
+    
   };
   
